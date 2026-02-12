@@ -12,7 +12,7 @@ Penyediaan basis data lowongan magang dan program MBKM yang dapat dikurasi dan d
 **Pipeline Tracking** 
 Implementasi sistem pelacakan status lamaran yang intuitif (dari tahap Applied hingga Accepted/Rejected) untuk memberikan visibilitas penuh terhadap proses rekrutmen.
 
-**Logbook Digital****
+**Logbook Digital**
 
 Fitur pencatatan aktivitas harian yang terstruktur untuk memudahkan penyusunan laporan akhir.
 
